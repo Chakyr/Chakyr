@@ -1,3 +1,107 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vladislav Guk ===================================================================================================================================== A novice developer of neural networks ------------------------------------- Studied for 5 years at the university, where he studied programming in the Pascal language. I have now started studying the creation of neural networks in Python. I don't have any projects of my own right now, but they will start being added soon. * 🌍 I'm based in Novominskaya village * ✉️ You can contact me at [vladislavguk3@gmail.com](mailto:vladislavguk3@gmail.com)
+# 👋 Влад | ML Engineer (Junior)
 
-### Socials <p align="left"> <a href="https://www.github.com/Chakyr" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+📍 Новоминская, Россия  
+🎓 Академия нейросетей **The Founder**  
+🎓 Высшее педагогическое образование (математика + информатика), КубГУ (филиал, Славянск-на-Кубани)
+
+---
+
+## 🚀 About Me
+
+Я начинающий ML-разработчик с математическим и педагогическим бэкграундом.  
+Сейчас активно развиваюсь в области машинного обучения, нейросетей и LLM-систем.
+
+Интересуюсь практическим применением AI:
+- LLM-ассистенты  
+- генеративные модели  
+- прикладной machine learning  
+
+---
+
+## 🧠 Skills
+
+**Programming & Tools:**
+- Python  
+- Pandas, NumPy  
+- Matplotlib, Seaborn  
+- Scikit-learn  
+- PyTorch  
+- XGBoost  
+- OpenAI API  
+- Gradio  
+- Jupyter / Google Colab  
+
+**ML / AI:**
+- Machine Learning (classification, regression)  
+- Deep Learning basics  
+- LLM applications  
+- Generative models (VAE, StyleGAN)  
+- Data preprocessing & feature engineering  
+
+---
+
+## 📁 Projects
+
+---
+
+### 💰 Financial AI Assistant
+AI-ассистент для анализа и выдачи справок о финансовых событиях крупных компаний за разные периоды.
+
+**Tech Stack:**
+- LlamaIndex
+- OpenAI API
+- Pandas
+- Gradio
+- KaggleHub
+- Python utilities (zipfile, etc.)
+
+👉 [Ссылка на проект](https://colab.research.google.com/drive/18nypXZiM2R3h1KxjSxOGgQ34cAleQCXH?usp=sharing)
+
+---
+
+### 🧬 Generative Models: VAE & StyleGAN
+Модель генерации реалистичных изображений человеческих лиц с использованием Variational Autoencoder и StyleGAN.
+
+**Tech Stack:**
+- PyTorch
+- Torchvision
+- Matplotlib
+- Seaborn
+- NumPy
+- Pillow
+- tqdm
+- KaggleHub
+
+👉 [Ссылка на проект](https://colab.research.google.com/drive/1DTyuLdTFkcKlh7i2cxdhmZ0ea2hjfG0q?usp=sharing)
+
+---
+
+### 🏠 Real Estate Classifier (House Price Model)
+Модель машинного обучения для классификации недвижимости на "дорогую" и "недорогую" на основе характеристик объекта.
+
+**Tech Stack:**
+- Scikit-learn
+- Logistic Regression
+- Random Forest
+- XGBoost
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- GridSearchCV
+- Cross-validation
+
+👉 [Ссылка на проект](https://colab.research.google.com/drive/1QKqhqUyNgO8cE3MovI13cZDDy4n-6ED1?usp=sharing)
+
+---
+
+## 📬 Contacts
+
+- Telegram: @PrVlPy  
+- VK: https://vk.com/gekell  
+- Email: vladislavguk3@gmail.com  
+
+---
+
+## 🎯 Current Goal
+
+Junior ML Engineer / Data Scientist role  
+Focus: practical ML, LLM systems, and applied AI products
